@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(104, 74, 104);
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: magenta;
+  cursor: crosshair;
+}
